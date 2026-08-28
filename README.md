@@ -155,7 +155,7 @@ Kullanıcı → Frontend (HTML/CSS/JS) → Fetch API → Node-RED (HTTP In)
 <th align="left">Teknoloji</th>
 </tr>
 <tr>
-<td>🐝 <b>SANCAK</b></td>
+<td>🐝  <b><a href="https://github.com/R-Tunahan-Kayahan/SANCAK">SANCAK</b></td>
 <td>Sürü İHA (swarm UAV) teknolojisi üzerine katıldığım proje/takım çalışması — çoklu insansız hava aracının koordineli hareketi üzerine.</td>
 <td><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
 </tr>
