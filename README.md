@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:0f3460&height=220&section=header&text=Rafet%20Tunahan%20Kayahan&fontSize=42&fontColor=00F0FF&fontAlignY=38&desc=Yaz%C4%B1l%C4%B1m%20M%C3%BChendisli%C4%9Fi%20%C3%96%C4%9Frencisi%20%7C%20Backend%20%26%20Yapay%20Zek%C3%A2&descSize=16&descAlignY=58&descColor=8A8AFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:0f3460&height=220&section=header&text=Rafet%20Tunahan%20Kayahan&fontSize=42&fontColor=00F0FF&fontAlignY=38&desc=Junior%20Full%20Stack%20Developer%20%7C%20Yaz%C4%B1l%C4%B1m%20M%C3%BChendisli%C4%9Fi%20%C3%96%C4%9Frencisi&descSize=15&descAlignY=58&descColor=8A8AFF" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=Ba%C5%9F+Geli%C5%9Ftirici+%40+T%C3%9CB%C4%B0TAK+2209-A;Yapay+Zek%C3%A2+Tabanl%C4%B1+Drone+Sistemleri;Backend+%2B+C%23+%2B+Python+%2B+Java;%C3%96%C4%9Frenmeye+Devam%2C+%C3%9Cretmeye+Devam+%F0%9F%9A%80" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=680&lines=Junior+Full+Stack+Developer;Backend+%2B+Frontend+%2B+Yapay+Zek%C3%A2+%C4%B0lgisi;C%23+%C2%B7+Java+%C2%B7+Python+%C2%B7+JavaScript+%C2%B7+SQL;S%C3%BCrekli+%C3%96%C4%9Freniyor%2C+S%C3%BCrekli+%C3%9Cretiyorum+%F0%9F%9A%80" alt="typing"/>
 
 <br/>
 
@@ -22,11 +22,11 @@
 
 ## 👋 Hakkımda
 
-Ben **Rafet Tunahan Kayahan**, Gümüşhane Üniversitesi'nde Yazılım Mühendisliği okuyan, aynı zamanda Atatürk Üniversitesi'nde Bilgisayar Programcılığı programına devam eden bir mühendislik öğrencisiyim. Samsun, Türkiye merkezli çalışıyorum.
+Merhaba, ben **Rafet Tunahan Kayahan**. Samsun, Türkiye merkezli, **junior full-stack developer** olarak kendimi geliştiren bir yazılım mühendisliği öğrencisiyim. Gümüşhane Üniversitesi'nde Yazılım Mühendisliği, Atatürk Üniversitesi'nde ise Bilgisayar Programcılığı programlarına devam ediyorum.
 
-Şu anda özellikle **Backend Development** ve **Yapay Zekâ** alanlarına yoğunlaşıyor; C#, Python, Java ve JavaScript ile kendimi geliştirmeye devam ediyorum. TÜBİTAK 2209-A kapsamında yürüttüğüm **yapay zekâ tabanlı trafik algılayıcı drone sistemi** projesinde baş geliştirici olarak yer aldım — yazılım mimarisinden algoritma geliştirmeye, takım koordinasyonundan teknik karar süreçlerine kadar sorumluluk üstlendim.
+Frontend'den backend'e, veritabanı tasarımından proje yönetimine kadar uçtan uca çalışmayı seviyorum. Şu anda özellikle **Backend Development** ve **Yapay Zekâ** alanlarına yoğunlaşıyorum; C#, Python, Java ve JavaScript ile aktif olarak kod yazıyor, her yeni projede bir önceki projeden öğrendiklerimi bir üst seviyeye taşımaya çalışıyorum.
 
-Üniversite bünyesindeki proje topluluklarında hem geliştirici hem eğitmen/mentör olarak rol aldım; bu deneyimler teknik becerilerimin yanında ekip içi iletişim ve proje yönetimi yetkinliklerimi de güçlendirdi.
+Sadece bireysel projelerle sınırlı kalmadım — TÜBİTAK 2209-A kapsamında yürütülen **yapay zekâ tabanlı trafik algılayıcı drone sistemi** projesinde baş geliştirici olarak görev aldım, bir **sürü İHA (swarm UAV)** ekibinde yer aldım, üniversite topluluklarında proje yöneticiliği ve genç yeteneklere mentörlük yaptım. Bu deneyimler bana sadece kod yazmayı değil; araştırma yapmayı, bir ekibi yönlendirmeyi ve teknik kararları sorumluluk alarak vermeyi de öğretti.
 
 <br/>
 
@@ -38,34 +38,40 @@ Ben **Rafet Tunahan Kayahan**, Gümüşhane Üniversitesi'nde Yazılım Mühendi
 <tr><td>Lisans — Bilgisayar Programcılığı</td><td>Atatürk Üniversitesi</td><td>2023 – Devam ediyor</td></tr>
 </table>
 
-**Ek Eğitimler:** C# (Developer Community, Gümüşhane Üniversitesi) · Java (Udemy, BTK Akademi) · C Programlama (BTK Akademi, Udemy) · JavaScript & Animasyon (Gümüşhane Üniversitesi, CoderSpace) · SQL (Miuul, BTK Akademi)
+**Tamamladığım Ek Eğitimler**
+| Eğitim | Kurum | Dönem |
+|---|---|---|
+| C# Eğitimi | Developer Community, Gümüşhane Üniversitesi | Haz 2025 – Kas 2025 |
+| Java Eğitimi | Udemy, BTK Akademi | Oca 2025 – Haz 2025 |
+| C Programlama Dili | BTK Akademi, Udemy | Eyl 2024 – Ara 2024 |
+| JavaScript ve Animasyon | Gümüşhane Üniversitesi, CoderSpace | Oca 2025 – Haz 2025 |
+| SQL Eğitimi | Miuul, BTK Akademi | Ağu 2025 – Eki 2025 |
 
 <br/>
 
-## 💼 Deneyim
+## 💼 Deneyim & Sorumluluklar
 
-```
-🛰️  Baş Geliştirici — TÜBİTAK 2209-A Projesi
-    └─ Yapay zekâ tabanlı trafik algılayıcı drone sistemi
-    └─ Yazılım & algoritma geliştirme süreçlerinin yönetimi
-    └─ Araştırma, tasarım, uygulama ve takım koordinasyonunda liderlik
+### 🛰️ Baş Geliştirici — TÜBİTAK 2209-A Projesi
+Yapay zekâ tabanlı **trafik algılayıcı drone sistemi** geliştiren proje ekibinde baş geliştirici olarak görev aldım. Projenin yazılım mimarisini ve algoritma geliştirme sürecini yönettim; araştırma, tasarım ve uygulama aşamalarının tamamında aktif rol oynadım. Takım içi teknik karar alma süreçlerinde liderlik sorumluluğu üstlendim.
 
-🧩  Proje Yöneticisi — TÜBİTAK Topluluğu (Ar-Ge Departmanı)             Ara 2024
-    └─ Endüstri Mühendisliği Topluluğu Proje & Ar-Ge süreçlerinde aktif rol
+### 🐝 Sürü İHA Ekibi — SANCAK
+**SANCAK**, sürü İHA (swarm UAV) teknolojisi üzerine katıldığım bir proje/takım çalışmasıdır. Birden fazla insansız hava aracının koordineli, eş güdümlü hareket etmesini hedefleyen sürü zekâsı çalışmalarına katkı sağladım. Bu deneyim, çoklu ajan sistemleri, gerçek zamanlı haberleşme ve dağıtık karar mekanizmaları konusunda bana pratik bilgi kazandırdı.
 
-🎓  Eğitmen / Mentör — T3 Vakfı                                Kas 2023 – Kas 2024
-    └─ Genç yeteneklerin proje geliştirme süreçlerine yönlendirilmesi
+### 🧩 Proje Yöneticisi — TÜBİTAK Topluluğu (Ar-Ge Departmanı) · *Aralık 2024*
+Endüstri Mühendisliği Topluluğu'nun Proje ve Ar-Ge Departmanı'nda aktif rol aldım; projelerin araştırma, geliştirme ve uygulama aşamalarında yer alarak teorik bilgiyi pratiğe döktüm.
 
-🌍  Kampüs Temsilcisi — GoIT                                    2025 – Devam ediyor
-    └─ Eğitim ve etkinlik süreçlerinin organizasyonu ve koordinasyonu
-```
+### 🎓 Eğitmen / Mentör — T3 Vakfı · *Kasım 2023 – Kasım 2024*
+Bir yıl boyunca eğitmen ve mentör olarak görev yaptım; genç yetenekleri yönlendirdim ve projelerinin uygulanmasına destek verdim.
+
+### 🌍 Kampüs Temsilcisi — GoIT · *2025 – Devam ediyor*
+GoIT platformunda kampüs temsilcisi olarak liderlik ve koordinasyon görevleri yürütüyorum; üniversite öğrencilerinin eğitim ve etkinlik süreçlerini organize ediyorum.
 
 <br/>
 
 ## ⚙️ Teknik Yetkinlikler
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cs,java,python,js,html,css,mysql,unity,git,spring&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,java,python,js,html,css,mysql,unity,git,spring,blender,nodejs&theme=dark" />
 </div>
 
 <table align="center">
@@ -73,27 +79,27 @@ Ben **Rafet Tunahan Kayahan**, Gümüşhane Üniversitesi'nde Yazılım Mühendi
 <td valign="top" width="50%">
 
 **Diller & Backend**
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) Nesne yönelimli programlama (OOP)
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) Backend geliştirme
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) Genel amaçlı geliştirme
+- ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) Java tabanlı backend framework
+- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) Veritabanı tasarımı & sorgulama
 
 </td>
 <td valign="top" width="50%">
 
 **Frontend & Araçlar**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Server](https://img.shields.io/badge/Server_Yönetimi-0f3460?style=flat-square&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) Animasyon ve etkileşim
+- ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white) Oyun motoru deneyimi
+- ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white) 3B modelleme
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) Versiyon kontrolü
+- ![Server](https://img.shields.io/badge/-Server_Yönetimi-0f3460?style=flat-square&logoColor=white) Sunucu yapılandırma
 
 </td>
 </tr>
 </table>
 
-**Yumuşak Beceriler:** Ekip Çalışması · Yüksek İletişim · Kriz Anında Çalışma · Araştırma & İçerik Üretimi · Zaman Yönetimi · Disiplin
+**Yumuşak Beceriler:** Ekip Çalışması · Yüksek İletişim · Kriz Anında Soğukkanlılık · Araştırma & İçerik Üretimi · Zaman Yönetimi · Disiplin
 
 <br/>
 
@@ -101,37 +107,44 @@ Ben **Rafet Tunahan Kayahan**, Gümüşhane Üniversitesi'nde Yazılım Mühendi
 
 ### 🧠 TaskFlow — Görev & Proje Yönetim Platformu
 
-Klasik yapılacaklar listesinin ötesine geçen; görev, proje, takvim ve analiz modüllerini tek platformda birleştiren **Node-RED tabanlı backend** ve **vanilla JavaScript frontend** ile geliştirilmiş uçtan uca bir uygulama.
+TaskFlow, klasik bir yapılacaklar listesinin ötesine geçen; görev, proje, takvim ve analiz modüllerini tek bir platformda birleştiren, **Node-RED tabanlı backend** ve **vanilla JavaScript frontend** ile geliştirdiğim uçtan uca bir proje yönetim uygulamasıdır. Frontend ile backend birbirinden tamamen ayrılmıştır; aralarındaki tek bağlantı REST API'dir. Bu sayede uygulama hem kolayca geliştirilebilir hem de (eklediğim Docker desteğiyle) taşınabilir hâle geldi.
 
-<table>
-<tr><td width="50%">
-
-**Mimari (4 Katman)**
-- **Presentation:** Bootstrap, jQuery, Mustache, FullCalendar, DataTables, SurveyJS
-- **Application:** `www/js/api.js` üzerinden `fetch()` çağrıları
-- **Backend:** Node-RED akışları — 181 node (HTTP In/Response, Function, MongoDB, bcrypt, e-posta)
-- **Data:** MongoDB (kullanıcılar, görevler, projeler, bildirimler)
-
-</td><td width="50%">
-
-**Öne Çıkan Modüller**
-- 🔐 JWT + Google/Firebase ile çift yönlü kimlik doğrulama
-- 📅 FullCalendar entegrasyonu ile takvim görünümü
-- 📊 Tamamlanma oranı & öncelik dağılımı analizleri
-- 🤖 Groq API üzerinden AI destekli dashboard önerileri
-- 🌍 5 dilde çoklu dil desteği (TR/EN/DE/ES/FR)
-- 🐳 2 aşamalı Docker build + Docker Compose (app + MongoDB)
-
-</td></tr>
-</table>
-
+**Mimari — 4 Katman**
 ```
 Kullanıcı → Frontend (HTML/CSS/JS) → Fetch API → Node-RED (HTTP In)
     → JWT Doğrulama → Function Node (iş mantığı) → MongoDB
     → HTTP Response → Frontend → DOM
 ```
 
-`Node.js` `Node-RED` `MongoDB` `Firebase Admin SDK` `JWT` `bcrypt` `Docker` `Groq API`
+<table>
+<tr><td width="50%">
+
+**Katman Detayları**
+- **Presentation:** Bootstrap, jQuery, Mustache şablonları, FullCalendar, DataTables, SurveyJS
+- **Application:** `www/js/api.js` üzerinden `fetch()` çağrıları
+- **Backend:** `flows.json` içinde 181 node barındıran Node-RED akışları (HTTP In/Response, Function, MongoDB, bcrypt, e-posta)
+- **Data:** MongoDB koleksiyonları — kullanıcılar, görevler, projeler, bildirimler
+
+</td><td width="50%">
+
+**Modüller**
+- 👤 Kullanıcı yönetimi: kayıt, giriş, JWT oturum, Google/Firebase ile giriş, şifre sıfırlama
+- ✅ Görevler: CRUD, öncelik, son tarih, durum, proje bağlama, filtreleme
+- 📁 Projeler: görev gruplama ve proje bazlı takip
+- 📅 Takvim: FullCalendar ile tarih bazlı görünüm
+- 📊 Analiz: tamamlanma oranı, öncelik dağılımı, proje performansı
+- 🤖 AI önerileri: Groq API ile dashboard'da dinamik içerik
+- 🔔 Bildirimler: toast tabanlı anlık geri bildirim
+- 🌍 Çoklu dil: TR/EN/DE/ES/FR
+
+</td></tr>
+</table>
+
+**Kimlik Doğrulama:** İki farklı giriş yolu aynı JWT mekanizmasında birleşiyor — klasik e-posta/şifre girişi bcrypt ile karşılaştırılıp JWT üretirken, Google/Firebase girişinde Firebase ID Token backend'de doğrulanıp kullanıcıyla eşleştiriliyor ve yine TaskFlow'un kendi JWT'si oluşturuluyor. Firebase token'ı yalnızca kimlik doğrulama, TaskFlow JWT'si ise API erişimi için kullanılıyor.
+
+**Docker Entegrasyonu:** Proje artık container'da çalışıyor. `Dockerfile`, native modülleri (bcrypt gibi) derleyen bir *build stage* ve yalnızca gerekli dosyaları içeren hafif bir *runtime stage* olmak üzere iki aşamalıdır ve root olmayan bir kullanıcıyla çalışır. `docker-compose.yml` ile TaskFlow uygulaması ve MongoDB aynı iç ağda ayağa kalkar, ayarlar `.env` dosyasından okunur. `.dockerignore` sayesinde `firebase-service-account.json` ve `flows_cred.json` gibi hassas dosyalar image içine hiç gömülmez, bunun yerine bind-mount ile container'a sağlanır.
+
+`Node.js` `Node-RED` `MongoDB` `Firebase Admin SDK` `JWT` `bcrypt` `Docker` `Groq API` `Bootstrap` `jQuery` `FullCalendar`
 
 ---
 
@@ -140,6 +153,11 @@ Kullanıcı → Frontend (HTML/CSS/JS) → Fetch API → Node-RED (HTTP In)
 <th align="left">Proje</th>
 <th align="left">Açıklama</th>
 <th align="left">Teknoloji</th>
+</tr>
+<tr>
+<td>🐝 <b>SANCAK</b></td>
+<td>Sürü İHA (swarm UAV) teknolojisi üzerine katıldığım proje/takım çalışması — çoklu insansız hava aracının koordineli hareketi üzerine.</td>
+<td><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
 </tr>
 <tr>
 <td>🎯 <b><a href="https://github.com/R-Tunahan-Kayahan/ToDoListApplication">ToDoListApplication</a></b></td>
@@ -162,16 +180,12 @@ Kullanıcı → Frontend (HTML/CSS/JS) → Fetch API → Node-RED (HTTP In)
 
 ## 📜 Sertifikalar
 
-<div align="left">
-
-![C](https://img.shields.io/badge/✓-C_Programlama_Dili-1a1a2e?style=flat-square&labelColor=00F0FF&color=1a1a2e)
-![C#JS](https://img.shields.io/badge/✓-C%23_%26_JavaScript-1a1a2e?style=flat-square&labelColor=00F0FF&color=1a1a2e)
-![HTML](https://img.shields.io/badge/✓-HTML_%2F_CSS_%2F_JS_Dijital-1a1a2e?style=flat-square&labelColor=00F0FF&color=1a1a2e)
-![AI](https://img.shields.io/badge/✓-Yapay_Zekâ_Girişimi-1a1a2e?style=flat-square&labelColor=00F0FF&color=1a1a2e)
-![T3](https://img.shields.io/badge/✓-T3_Vakfı_Eğitmen_Mentör-1a1a2e?style=flat-square&labelColor=00F0FF&color=1a1a2e)
-![TUBITAK](https://img.shields.io/badge/✓-TÜBİTAK_Proje_Yönetimi-1a1a2e?style=flat-square&labelColor=00F0FF&color=1a1a2e)
-
-</div>
+- ✅ C Programlama Dili
+- ✅ C# & JavaScript
+- ✅ HTML / CSS / JS Dijital
+- ✅ Yapay Zekâ Girişimi
+- ✅ T3 Vakfı Eğitmen Mentör
+- ✅ TÜBİTAK Proje Yönetimi
 
 <br/>
 
@@ -190,12 +204,16 @@ Kullanıcı → Frontend (HTML/CSS/JS) → Fetch API → Node-RED (HTTP In)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=R-Tunahan-Kayahan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0f0f&title_color=00F0FF&icon_color=8A8AFF&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=R-Tunahan-Kayahan&theme=tokyonight&hide_border=true&background=0f0f0f&ring=00F0FF&fire=8A8AFF&currStreakLabel=00F0FF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=R-Tunahan-Kayahan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0f0f&title_color=00F0FF&icon_color=8A8AFF&text_color=c9d1d9&count_private=true" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=R-Tunahan-Kayahan&theme=tokyonight&hide_border=true&background=0f0f0f&ring=00F0FF&fire=8A8AFF&currStreakLabel=00F0FF" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Tunahan-Kayahan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0f0f&title_color=00F0FF&text_color=c9d1d9" width="45%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=R-Tunahan-Kayahan&theme=tokyo-night&hide_border=true&bg_color=0f0f0f&color=00F0FF&line=8A8AFF&point=ffffff" width="95%"/>
 
 </div>
+
+> 💡 Bu görseller Vercel üzerinde barınan ücretsiz, açık kaynak servislerdir (github-readme-stats, streak-stats, activity-graph). İlk yüklemede birkaç saniye gecikme normaldir; sayfayı yenilersen hepsi düzgün görünür.
 
 <br/>
 
